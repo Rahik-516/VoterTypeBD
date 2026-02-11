@@ -27,7 +27,8 @@ export const metadata: Metadata = {
   },
   manifest: "/manifest.webmanifest",
   icons: {
-    icon: "/icon.svg",
+    icon: "/tab_photo.png",
+    apple: "/tab_photo.png",
   },
 };
 
